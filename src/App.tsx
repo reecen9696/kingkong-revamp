@@ -1,25 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Home from "./pages/home";
+import Navbar from "./components/navbar";
+import AppBlocker from "./components/appblocker"; // Import the AppBlocker
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      {/* AppBlocker will handle blocking on smaller screens */}
+      <AppBlocker />
+
+      {/* Main app content */}
+      <div className="hidden lg:block">
+        <Navbar />
+        <Home />
+      </div>
+    </>
   );
 }
 
