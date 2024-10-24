@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kingkong-revamp/static/css/main.4d314867.css",
+    "main.js": "/kingkong-revamp/static/js/main.af9d878a.js",
+    "static/js/453.4c3b8357.chunk.js": "/kingkong-revamp/static/js/453.4c3b8357.chunk.js",
+    "static/media/man.png": "/kingkong-revamp/static/media/man.d3badfb143c6d83bffd3.png",
+    "static/media/logo.svg": "/kingkong-revamp/static/media/logo.589f2b17b48bb9f4a87d6816db181957.svg",
+    "index.html": "/kingkong-revamp/index.html",
+    "static/media/bolt-r.svg": "/kingkong-revamp/static/media/bolt-r.1089189b6b7adc5d6bb620b8543c0efa.svg",
+    "static/media/bolt-l.svg": "/kingkong-revamp/static/media/bolt-l.662e533622c3cdae352b989b11f9a81f.svg",
+    "static/media/phone.svg": "/kingkong-revamp/static/media/phone.bed16c967c0c922de283ae77c611ae1f.svg",
+    "static/media/burger.svg": "/kingkong-revamp/static/media/burger.80d139726d10a91cd0ec8bed05cb56e8.svg",
+    "static/media/star.svg": "/kingkong-revamp/static/media/star.6ebeea1c599b38453f353a65a18731ad.svg",
+    "main.4d314867.css.map": "/kingkong-revamp/static/css/main.4d314867.css.map",
+    "main.af9d878a.js.map": "/kingkong-revamp/static/js/main.af9d878a.js.map",
+    "453.4c3b8357.chunk.js.map": "/kingkong-revamp/static/js/453.4c3b8357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d314867.css",
+    "static/js/main.af9d878a.js"
+  ]
+}
